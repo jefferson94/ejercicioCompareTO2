@@ -70,5 +70,13 @@ public class Fraccionario {
     }
     
     
-    
+    public int sumaFraccion( mFraccion e){
+       
+       
+       
+       
+       
+       
+       
+    }
 }
